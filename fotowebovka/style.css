@@ -1,0 +1,94 @@
+
+<! -- /* copyright p.simek css */
+ -->
+
+
+
+/* Basic */
+
+
+
+html {
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.responsive1 {
+  width: 375px;
+  height: auto;
+}
+
+.responsive2 {
+  width: 375px;
+  height: auto;
+}
+
+.responsive3 {
+  width: 375px;
+  height: auto;
+}
+
+.responsive4 {
+  width: 375px;
+  height: auto;
+}
+.responsive5 {
+  width: 375px;
+  height: auto;
+
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 375px;
+  background-color: white;
+}
+
+
+.container {
+    
+    p {
+   
+    width: 437px;
+      
+    
+         }
+		 
+		 b {
+  font-size: large;
+  color: blueviolet;
+}
+
+@media only screen and (min-width: 375px) and (max-width: 1200px) {
+    
+    wrapper-main {
+        width: 100%;
+        
+           }
+
+
+
+*/ <šířka Nest Hub Max 1200px; Nest Hub 1024px; Samsung Galaxy A51 412px;
+    Asus Zenbook Fold 853px; Galaxy Z Fold 5 344px; Surface Duo 540px;
+    Surface Pro 7 912px; iPad Pro 1024px; iPad Air 820px; iPad Mini 768px;
+    Samsung Galaxy S20 Ultra 412px;
+    Samsung Galaxy S8 360px; Pixel 7 412px;
+    iPhone 14 Pro Max 430px; iPhone 12 Pro 390px;> css copyright /*
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    iPhone XR 414px;
+    iPhone SE 375px;> /*
