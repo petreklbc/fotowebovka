@@ -1,0 +1,52 @@
+
+<! -- /* copyright p.simek css */
+ -->
+
+
+
+/* Basic */
+
+
+
+html {
+font-family: "Times New Roman", Times, serif;
+
+}
+
+.responsive1 {
+  width: 336px;
+  height: auto;
+}
+
+.responsive2 {
+  width: 336px;
+  height: auto;
+}
+
+.responsive3 {
+  width: 336px;
+  height: auto;
+}
+
+.responsive4 {
+  width: 336px;
+  height: auto;
+}
+.responsive5 {
+  width: 336px;
+  height: auto;
+
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 336px;
+  background-color: white;
+}
+
+
+
+
+3
