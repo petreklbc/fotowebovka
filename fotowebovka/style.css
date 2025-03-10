@@ -1,0 +1,100 @@
+﻿
+<! -- /* copyright p.simek css */
+ -->
+
+
+
+/* Basic */
+
+
+
+
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  underline: white;
+  
+}
+  
+  h1  {
+	  
+	  color: white;
+	  
+}
+
+.responsive1 {
+  width: 375px;
+  height: auto;
+}
+
+.responsive2 {
+  width: 375px;
+  height: auto;
+}
+
+.responsive3 {
+  width: 375px;
+  height: auto;
+}
+
+.responsive4 {
+  width: 375px;
+  height: auto;
+}
+.responsive5 {
+  width: 375px;
+  height: auto;
+
+}
+
+.responsive6 {
+  width: 375px;
+  height: auto;
+
+}
+
+.responsive7 {
+  width: 375px;
+  height: auto;
+
+}
+
+ .responsive8 {
+  width: 145px;
+  height: 145px;
+  background-color:transparent;
+  border: 0px;
+  rotate: 45deg;
+  
+
+
+
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 375px;
+  background-color: white;
+}
+
+
+.container {
+	p { width: 365px;
+	background-image: url('sparkle.png');
+
+	
+	parallax {
+  /* The image used */
+  background-image: url("sparkle.png");
+
+  /* Set a specific height */
+  height: 2400px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  
+}
