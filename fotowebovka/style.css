@@ -1,0 +1,171 @@
+﻿
+<! -- /* copyright p.simek css */
+ -->
+
+<! -- /* web color safety pdf download */
+ -->
+
+
+
+
+html, body {
+    
+   
+    
+    
+    
+    
+    
+    color: white;
+    
+    
+    
+
+
+   
+ }
+
+h2, h3  {
+    
+  color: yellow;
+    
+}
+
+a {
+    
+  color: yellow;
+    font-size: 27px;
+
+    
+     }
+    
+h3 {
+    
+  color: yellow;
+    font-size: 24px;
+    
+     }
+
+h4 {
+    
+  color: yellow;
+    font-size: 24px;
+    
+     }
+    
+  
+   p  {
+	  
+	  color: white;
+	  
+}
+
+.responsive1 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+
+.responsive007 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive2 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive3 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive4 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive5 {
+  width: 375px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+
+.responsive6 {
+  width: 375px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive9 {
+  width: 375px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+
+.responsive7 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+
+ .responsive8 {
+	width: 145px;
+	  height: auto;
+      rotate: 45deg;
+  border: 0px;
+  border-radius: 0px;
+  padding: 0px;
+ }
+     
+  .responsive037 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+        
+        .auto-style1 {
+	color: #FFFFFF;
+}
+.auto-style3 {
+	margin-left: 23px;
+	color: #FFFFFF;
+}
+.newStyle1 {
+	background-image: url('sparkle.png');
+	background-repeat: repeat;
+}
+.auto-style4 {
+	font-size: large;
+}
+.auto-style5 {
+	font-size: x-large;
+}
+        
