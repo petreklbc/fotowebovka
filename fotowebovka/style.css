@@ -1,0 +1,189 @@
+﻿
+<! -- /* copyright p.simek css */
+ -->
+
+<! -- /* web color safety pdf download */
+ -->
+
+
+
+
+html, body {
+    
+    <style>    
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+   </style> 
+    
+    
+    
+    color: white;
+    
+    
+    
+
+
+   
+ }
+
+h2, h3  {
+    
+  color: yellow;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal
+    
+}
+
+a {
+    
+  color: yellow;
+    font-size: 27px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal
+
+    
+     }
+    
+h3 {
+    
+  color: yellow;
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal
+    
+     }
+
+h4 {
+    
+  color: yellow;
+    font-size: 24px;
+    font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal
+    
+     }
+    
+  
+   p  {
+	  
+	  color: white;
+       font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal
+	  
+}
+
+.responsive1 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+
+.responsive007 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive2 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive3 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive4 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive5 {
+  width: 375px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+
+.responsive6 {
+  width: 375px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+.responsive9 {
+  width: 375px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+
+.responsive7 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+
+ .responsive8 {
+	width: 145px;
+	  height: auto;
+      rotate: 45deg;
+  border: 0px;
+  border-radius: 0px;
+  padding: 0px;
+ }
+     
+  .responsive037 {
+  width: 375px;
+  height: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+ }
+
+
+
+      
+        .auto-style1 {
+	color: #FFFFFF;
+}
+.auto-style3 {
+	margin-left: 23px;
+	color: #FFFFFF;
+}
+.newStyle1 {
+	background-image: url('sparkle.png');
+	background-repeat: repeat;
+}
+.auto-style4 {
+	font-size: large;
+}
+.auto-style5 {
+	font-size: x-large;
+}
+        
